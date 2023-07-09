@@ -1,0 +1,13 @@
+.container {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #timer {
+    font-size: 30em;
+    color: green;
+  }
+  
