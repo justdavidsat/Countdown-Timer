@@ -3,8 +3,8 @@ The Countdown Timer is a web-based application that allows users to set a specif
 
 Features
 Input a specific time duration for a session in minutes.
-The timer begins to count down and changes color to indicate the progress.
-When the inputted time is exhausted, the timer displays a message indicating the end of the session and starts counting down in the negative direction.
+The timer begins to count down.
+When the inputted time is exhausted, the timer starts counting down in the negative direction.
 Users can stop or pause the timer by pressing the "Space" bar.
 Users can reset the timer to start a new session by pressing the "R" key.
 The timer font fills the screen and is centered.
@@ -27,9 +27,15 @@ Open the app in a web browser.
 Press the "Space" bar to prompt for the desired time duration in minutes.
 Enter the desired time duration using the keyboard and press Enter.
 The timer will start counting down, and the remaining time will be displayed.
-When the time is exhausted, the timer will display a message indicating the end of the session and start counting down in the negative direction, which is indicated by the color change to red.
+When the time is exhausted, the timer starts counting down in the negative direction, which is indicated by the color change to red.
 Press the "Space" bar again to stop or pause the timer.
 Press the "R" key to reset the timer and start a new session.
+
+Contributing
+Contributions are welcome! If you have any improvements or feature suggestions, please submit a pull request. Ensure that your changes are well-documented and tested.
+
+License
+This project is licensed under the MIT License.
 
 Contributing
 Contributions are welcome! If you have any improvements or feature suggestions, please submit a pull request. Ensure that your changes are well-documented and tested.
